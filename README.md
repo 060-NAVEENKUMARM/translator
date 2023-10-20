@@ -27,10 +27,9 @@ Prerequisites
 Azure Account: Create a new Azure VM and set up Blob Storage.
 Basic Knowledge: Familiarity with HTML, CSS, JavaScript, and Azure services.
 # Deployment Steps
-# Clone the Repository:
-
-# bash
-# Copy code
+Clone the Repository:
+bash
+Copy code
 git clone https://github.com/your-username/translator-app.git
 cd translator-app
 # Modify Configurations:
