@@ -30,7 +30,7 @@ Basic Knowledge: Familiarity with HTML, CSS, JavaScript, and Azure services.
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/translator-app.git
+(https://github.com/060-NAVEENKUMARM/translator)
 cd translator-app
 # Modify Configurations:
 
