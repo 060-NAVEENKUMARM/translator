@@ -1,4 +1,4 @@
-#My Translator App
+# My Translator App
 
 
 My Translator App is a web application designed to translate text from one language to another. It utilizes HTML, CSS, and JavaScript for the front-end development. The application is hosted on Azure Virtual Machine (VM) and uses Azure Blob Storage for storing language data.
