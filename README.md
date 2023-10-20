@@ -1,21 +1,19 @@
 # My Translator App
 
-
 My Translator App is a web application designed to translate text from one language to another. It utilizes HTML, CSS, and JavaScript for the front-end development. The application is hosted on Azure Virtual Machine (VM) and uses Azure Blob Storage for storing language data.
 
-#Features
-
+# Features
 
 Translation: Translate text from one language to another.
 User-Friendly Interface: Simple and intuitive design for easy navigation.
 Responsive: Compatible with various devices, including desktops, tablets, and smartphones.
-Technologies Used
+# Technologies Used
 Front-End: HTML, CSS, JavaScript
 Hosting: Azure Virtual Machine
 Storage: Azure Blob Storage
 How to Use
 
-#Accessing the App:
+# Accessing the App:
 
 The app is hosted on Azure VM. Visit the following URL to access the Translator App: My Translator App
 Translation:
@@ -28,14 +26,14 @@ Setup Instructions
 Prerequisites
 Azure Account: Create a new Azure VM and set up Blob Storage.
 Basic Knowledge: Familiarity with HTML, CSS, JavaScript, and Azure services.
-Deployment Steps
-#Clone the Repository:
+# Deployment Steps
+# Clone the Repository:
 
-#bash
-#Copy code
+# bash
+# Copy code
 git clone https://github.com/your-username/translator-app.git
 cd translator-app
-Modify Configurations:
+# Modify Configurations:
 
 Update the Azure Blob Storage connection details in config.js.
 Upload Language Data:
@@ -50,7 +48,7 @@ Visit your Azure VM's IP address to access the deployed Translator App.
 Contribution Guidelines
 If you want to contribute to this project, follow these steps:
 
-#Fork the repository.
+# Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name
 Commit your changes: git commit -m 'Add a new feature'
 Push to the branch: git push origin feature-name
